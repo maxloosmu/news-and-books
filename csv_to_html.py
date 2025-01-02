@@ -1,7 +1,7 @@
 import csv
 
 # Define the input and output file paths
-input_file = 'url.csv'
+input_file = 'url_updated.csv'
 output_file = 'html.txt'
 
 # Initialize a list to store the HTML output

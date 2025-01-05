@@ -1,135 +1,35 @@
 <li>
-<a href="https://news-and-books.com/self-improvement/life-beyond-credentials-flourishing-through-relationships-and-reflection">
-Life Beyond Credentials: Flourishing Through Relationships and Reflection
+<a href="https://news-and-books.com/sg/flooded-streets-rising-risks-singapores-call-to-action-on-climate-resilience">
+Flooded Streets, Rising Risks: Singapore's Call to Action on Climate Resilience
 </a>
 </li>
 <li>
-<a href="https://news-and-books.com/self-improvement/why-simplicity-matters-the-case-against-gobbledegook">
-Why Simplicity Matters: The Case Against Gobbledegook
+<a href="https://news-and-books.com/sg/from-trade-wars-to-market-volatility-what-lies-ahead-for-singapore-in-2025">
+From Trade Wars to Market Volatility: What Lies Ahead for Singapore in 2025
 </a>
 </li>
 <li>
-<a href="https://news-and-books.com/self-improvement/from-distractions-to-intentions-managing-modern-attention-spans">
-From Distractions to Intentions: Managing Modern Attention Spans
+<a href="https://news-and-books.com/sg/beyond-desks-how-flexi-work-is-transforming-blue-collar-jobs">
+Beyond Desks: How Flexi-Work is Transforming Blue-Collar Jobs
 </a>
 </li>
 <li>
-<a href="https://news-and-books.com/self-improvement/the-decline-of-literacy-navigating-a-world-of-shortcuts-and-machines">
-The Decline of Literacy: Navigating a World of Shortcuts and Machines
-</a>
-</li>
-<li>
-<a href="URL">
-Title
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/health/mind-over-matter-exploring-games-and-puzzles-to-fight-dementia">
-Mind Over Matter: Exploring Games and Puzzles to Fight Dementia
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/health/slimming-craze-sparks-ozempic-shortage-in-malaysia-a-health-risk">
-Slimming Craze Sparks Ozempic Shortage in Malaysia: A Health Risk?
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/health/hypnosis-reassessed-from-misunderstood-therapy-to-medical-tool">
-Hypnosis Reassessed: From Misunderstood Therapy to Medical Tool
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/health/beyond-weight-loss-how-glp-1-drugs-could-redefine-healthcare">
-Beyond Weight Loss: How GLP-1 Drugs Could Redefine Healthcare
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/health/the-weight-loss-drug-wars-inside-the-fiercest-battle-in-pharmaceuticals">
-The Weight-Loss Drug Wars: Inside the Fiercest Battle in Pharmaceuticals
+<a href="https://news-and-books.com/business/from-singapore-to-johor-exploring-the-economic-potential-of-the-sez">
+From Singapore to Johor: Exploring the Economic Potential of the SEZ
 </a>
 </li>
 <li>
 <a href="URL">
-Title
+Technology
 </a>
 </li>
 <li>
-<a href="https://news-and-books.com/tech/ai/rethinking-ai-what-the-a-should-mean-in-2025">
-Rethinking AI: What the ‘A’ Should Mean in 2025
+<a href="https://news-and-books.com/tech/quantum-leap-how-china-is-closing-the-gap-on-u-s-tech-leadership">
+Quantum Leap: How China Is Closing the Gap on U.S. Tech Leadership
 </a>
 </li>
 <li>
-<a href="https://news-and-books.com/tech/ai/bridging-education-and-innovation-ais-role-in-shaping-future-business-leaders">
-Bridging Education and Innovation: AI’s Role in Shaping Future Business Leaders
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/tech/ai/2025-and-beyond-navigating-ais-revolutionary-and-risky-path">
-2025 and Beyond: Navigating AI’s Revolutionary and Risky Path
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/tech/ai/why-ai-could-outsmart-quantum-computing-in-chemistry-and-physics">
-Why AI Could Outsmart Quantum Computing in Chemistry and Physics
-</a>
-</li>
-<li>
-<a href="URL">
-Title
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/tech/ibidens-role-in-powering-nvidias-ai-revolution">
-Ibiden’s Role in Powering Nvidia’s AI Revolution
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/tech/ai-stablecoins-and-uaps-the-unfolding-story-of-a-transforming-world">
-AI, Stablecoins, and UAPs: The Unfolding Story of a Transforming World
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/tech/pigs-with-a-purpose-revolutionising-organ-transplants-for-humans">
-Pigs with a Purpose: Revolutionising Organ Transplants for Humans
-</a>
-</li>
-<li>
-<a href="URL">
-Title
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/business/thailands-medical-tourism-boom-how-the-land-of-smiles-became-the-worlds-longevity-sanctuary">
-Thailand’s Medical Tourism Boom: How the Land of Smiles Became the World’s Longevity Sanctuary
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/business/trump-and-the-media-a-battle-for-truth-and-trust">
-Trump and the Media: A Battle for Truth and Trust
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/business/manufacturing-real-estate-and-beyond-why-investors-are-flocking-to-south-east-asia">
-Manufacturing, Real Estate, and Beyond: Why Investors Are Flocking to South-East Asia
-</a>
-</li>
-<li>
-<a href="URL">
-Title
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/economy/focusing-on-what-works-a-pragmatic-approach-to-global-progress">
-Focusing on What Works: A Pragmatic Approach to Global Progress
-</a>
-</li>
-<li>
-<a href="URL">
-Title
-</a>
-</li>
-<li>
-<a href="https://news-and-books.com/finance/the-mystery-of-corporate-longevity-lessons-for-smart-investors">
-The Mystery of Corporate Longevity: Lessons for Smart Investors
+<a href="https://news-and-books.com/tech/tech-turmoil-ai-politics-and-the-future-of-2025">
+Tech Turmoil: AI, Politics, and the Future of 2025
 </a>
 </li>

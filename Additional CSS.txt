@@ -1,0 +1,61 @@
+
+/* Existing CSS for hiding screenshots */
+div.pagelayer-wposts-thumb[style*="wp-content/plugins/pagelayer/images/no_screenshot.png"] {
+    display: none !important;
+}
+/* Hide the parent container to remove the empty space */
+div.pagelayer-wposts-featured:has(div[style*="no_screenshot.png"]) {
+    display: none !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.mob-menu-icon::before {
+    font-size: 64px; /* Adjust the size as needed */
+    width: 50px; /* Increase the button width */
+    height: 50px; /* Increase the button height */
+    line-height: 150px; /* Center the icon vertically */
+}
+
+ol {
+    list-style-type: decimal !important;
+    margin-left: 10px !important;
+    padding-left: 10px !important;
+}
+ol li {
+    display: list-item !important;
+    margin-left: 10px !important;
+    padding-left: 10px !important;
+}
+ol li::marker {
+    margin-left: 10 !important;
+    padding-left: 10 !important;
+}
+.pagelayer-post-content ol li {
+    margin-left: 10px !important;
+    padding-left: 10px !important;
+}
+
+.wp-block-heading {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.wp-block-heading h1, h2, h3, h4, h5, h6 {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+
+.entry-content a:hover, .entry-content ol li a:hover {
+    color: red !important;
+}
+a:hover, pagelayer-post-excerpt a:hover {
+    color: red !important;
+}
+.entry-content a:hover, .entry-content ol li a:hover, .pagelayer-post-excerpt a:hover {
+    color: red !important;
+}

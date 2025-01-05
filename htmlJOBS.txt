@@ -1,0 +1,16 @@
+<ol>
+    <li>Assistant Counsel</li>
+    <li>Energy-Industry Scholarship (EIS) Mid Term</li>
+    <li>Freelance Customer Service Call Agent</li>
+    <li>Intern (Cybersecurity)</li>
+    <li>Intern, Corporate Sales</li>
+    <li>Intern, HR & Administration</li>
+    <li>Intern, IT Infrastructure</li>
+    <li>Intern, Marketing (Creative)</li>
+    <li>Intern, Project Management</li>
+    <li>Intern, System Applications</li>
+    <li>Officer / Executive - Billing and Settlement</li>
+    <li>Singapore-Industry Scholarship (SgIS) Mid Term</li>
+    <li>Technical Officer (Field Operations)</li>
+    <li>Technical Officer (Maintenance - Mechanical)</li>
+</ol>

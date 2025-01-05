@@ -1,16 +1,20 @@
 <ol>
-    <li>Assistant Counsel</li>
-    <li>Energy-Industry Scholarship (EIS) Mid Term</li>
-    <li>Freelance Customer Service Call Agent</li>
-    <li>Intern (Cybersecurity)</li>
-    <li>Intern, Corporate Sales</li>
-    <li>Intern, HR & Administration</li>
-    <li>Intern, IT Infrastructure</li>
-    <li>Intern, Marketing (Creative)</li>
-    <li>Intern, Project Management</li>
-    <li>Intern, System Applications</li>
-    <li>Officer / Executive - Billing and Settlement</li>
-    <li>Singapore-Industry Scholarship (SgIS) Mid Term</li>
-    <li>Technical Officer (Field Operations)</li>
-    <li>Technical Officer (Maintenance - Mechanical)</li>
+    <li>Enterprise Account Executive, FSI (Philippines)</li>
+    <li>Director, Enterprise Architecture</li>
+    <li>Senior Advisory Pre-sales Enterprise Architect</li>
+    <li>Sr Field Marketing Manager, Partner Marketing (Asia)</li>
+    <li>Senior Manager, Solution Consulting (Telco)</li>
+    <li>Major Area Leader, Customer Excellence</li>
+    <li>Advisory Solution Consultant, FSI</li>
+    <li>Business Operations Analyst</li>
+    <li>Operational Technology (OT) Solution Consultant</li>
+    <li>Sr Dir, APAC Integrated Marketing</li>
+    <li>Advisory Solution Consultant</li>
+    <li>Solution Sales Executive, Risk</li>
+    <li>FSI Sales Leader (Asia)</li>
+    <li>Senior Manager, Solution Consulting - Technology Workflows</li>
+    <li>Solution Sales Executive, Creator Workflows</li>
+    <li>GTM Finance – Revenue Manager</li>
+    <li>APJ Business Development Manager - IT Asset Management</li>
+    <li>Solution Sales Executive - Customer Workflows</li>
 </ol>

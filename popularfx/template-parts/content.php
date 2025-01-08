@@ -29,7 +29,15 @@
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 
-	<?php popularfx_post_thumbnail(); ?>
+	<?php 
+	echo "<!-- Debug: Checking thumbnail -->";
+	if ( has_post_thumbnail() ) {
+		echo "<!-- Debug: Has thumbnail -->";
+		popularfx_post_thumbnail();
+	} else {
+		echo "<!-- Debug: No thumbnail -->";
+	}
+	?>
 
 	<div class="entry-content">
 		<?php

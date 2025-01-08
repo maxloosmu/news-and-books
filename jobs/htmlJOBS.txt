@@ -1,0 +1,27 @@
+<ol>
+    <li>Account Executive - ESMB, ASEAN (MuleSoft)</li>
+    <li>Business Development Representative, Singapore & Taiwan Market (Marketing & Commerce Cloud)</li>
+    <li>Slack Account Executive - ASEAN</li>
+    <li>Cloud Account Executive, Field Service and Service Engagement - Singapore</li>
+    <li>Prime Named Account Executive, Tableau</li>
+    <li>Account Executive - ESMB, Philippines</li>
+    <li>Prime Named Account Executive, Marketing Cloud - Singapore</li>
+    <li>Account Executive, Vietnam</li>
+    <li>Manager, Sales - ESMB, Philippines</li>
+    <li>Principal Solution Engineer</li>
+    <li>Account Executive - Outsource Service Providers</li>
+    <li>VP, ASEAN Alliances & Channels</li>
+    <li>Cloud Account Executive, Field Service and Service Engagement - Malaysia & Vietnam</li>
+    <li>Cloud Account Executive, Field Service and Service Engagement - Philippines</li>
+    <li>Account Executive - ESMB, Singapore</li>
+    <li>Prime Named Account Executive, Marketing Cloud - Singapore</li>
+    <li>Account Solution Engineer, ESMB - ASEAN</li>
+    <li>Named Account Executive, Public Sector, Singapore</li>
+    <li>Agentforce Account Executive</li>
+    <li>Named Account Executive, Philippines</li>
+    <li>Named Account Executive, Digital (Marketing & Commerce Cloud), Philippines</li>
+    <li>Prime Named Account Executive, Vietnam (Tableau) - Commercial/ Enterprise</li>
+    <li>Senior, Account Solution Engineer - Philippines Market</li>
+    <li>Heroku Account Executive. Enterprise - ASEAN</li>
+    <li>Cloud Account Executive, Platform</li>
+</ol>

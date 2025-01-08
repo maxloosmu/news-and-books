@@ -42,10 +42,22 @@ try:
         writer.writeheader()
 
         for row in reader:
-            if not row['Title'].strip():
-                print(f"Fetching title for URL: {row['URL']}")
-                row['Title'] = fetch_title(row['URL'].strip())
+            title = row.get('Title')
+            url = row.get('URL')
+
+            if title is None or not title.strip():  # Check if title is missing or empty
+                print(f"Fetching title for URL: {url}")
+                if url:
+                    row['Title'] = fetch_title(url.strip())  # Ensure URL is not None before stripping
+                else:
+                    row['Title'] = 'No URL Provided'
             writer.writerow(row)
+
+        # for row in reader:
+        #     if not row['Title'].strip():
+        #         print(f"Fetching title for URL: {row['URL']}")
+        #         row['Title'] = fetch_title(row['URL'].strip())
+        #     writer.writerow(row)
 
     print(f"Updated CSV file saved as {output_file}.")
 

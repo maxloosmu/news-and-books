@@ -11,7 +11,7 @@ div.pagelayer-wposts-featured:has(div[style*="no_screenshot.png"]) {
 }
 
 .mob-menu-icon::before {
-    font-size: 64px; /* Adjust the size as needed */
+    font-size: 80px; /* Adjust the size as needed */
     width: 50px; /* Increase the button width */
     height: 50px; /* Increase the button height */
     line-height: 150px; /* Center the icon vertically */
@@ -57,4 +57,17 @@ a:hover, pagelayer-post-excerpt a:hover {
 }
 .entry-content a:hover, .entry-content ol li a:hover, .pagelayer-post-excerpt a:hover {
     color: red !important;
+}
+
+/* Ensure bullet points display correctly for wp-block-list */
+.wp-block-list {
+    list-style-type: disc !important; /* Use disc bullets for unordered lists */
+    list-style-position: outside !important; /* Ensure bullets appear outside the text */
+    margin-left: 12px !important; /* Adjust margin for alignment */
+    padding-left: 12px !important; /* Add padding for spacing */
+}
+.wp-block-list li {
+    display: list-item !important; /* Ensure list items are displayed properly */  
+	  margin-top: 2px !important; 
+    margin-bottom: 2px !important; /* Add spacing between list items */
 }

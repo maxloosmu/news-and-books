@@ -7,6 +7,9 @@ file_path = 'new_urls.txt'
 def clean_url(url):
     # Remove the date-time part using the last "/"
     clean_url = url.rsplit('/', 1)[0]
+    # Ensure the URL ends with a trailing slash
+    if not clean_url.endswith('/'):
+        clean_url += '/'
     return clean_url
 
 # Process the file

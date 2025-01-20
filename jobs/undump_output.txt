@@ -1,39 +1,23 @@
-SALES
-Account Executive - ESMB, ASEAN (MuleSoft)
-Business Development Representative, Singapore & Taiwan Market (Marketing & Commerce Cloud)
-Slack Account Executive - ASEAN
-Cloud Account Executive, Field Service and Service Engagement - Singapore
-Prime Named Account Executive, Tableau
-Account Executive - ESMB, Philippines
-Prime Named Account Executive, Marketing Cloud - Singapore
-Account Executive, Vietnam
-Manager, Sales - ESMB, Philippines
-Principal Solution Engineer
-Account Executive - Outsource Service Providers
-VP, ASEAN Alliances & Channels
-Cloud Account Executive, Field Service and Service Engagement - Malaysia & Vietnam
-Cloud Account Executive, Field Service and Service Engagement - Philippines
-Account Executive - ESMB, Singapore
-Prime Named Account Executive, Marketing Cloud - Singapore
-Account Solution Engineer, ESMB - ASEAN
-Named Account Executive, Public Sector, Singapore
-Agentforce Account Executive
-Named Account Executive, Philippines
-Named Account Executive, Digital (Marketing & Commerce Cloud), Philippines
-Prime Named Account Executive, Vietnam (Tableau) - Commercial/ Enterprise
-Senior, Account Solution Engineer - Philippines Market
-Heroku Account Executive. Enterprise - ASEAN
-Cloud Account Executive, Platform
+SERVICES
+Technical Support Engineer
 
-CUSTOMER SUCCESS
-Senior Engagement Manager, Salesforce
+MANUFACTURING & LOGISTICS
+GE Vernova Operations Management Leadership Program (OMLP) - Singapore 2025
+Maintenance Technician
+Intern - Lean
+Product Engineer - Aero
+Welder/Blender
+Inspector
+Special Process Operator
+Welder/Blender-1
 
-SALESFORCE RESEARCH
-2025 PhD Intern - AI Research, Singapore
+PROJECT MANAGEMENT
+Operations Manager
+Project Management Leadership Program
+Project Manager (Electrical)
 
-MARKETING & COMMUNICATIONS
-Product Marketing Manager
-
-SOFTWARE ENGINEERING
-Research Scientist/Senior Research Scientist - Salesforce AI Research Singapore
+ENGINEERING / TECHNOLOGY
+Control and Protection Engineer
+Lead EIT Installation Design Engineer - FPSO E-House
+Lead Mechanical Systems Engineer – FPSO E-House
 
